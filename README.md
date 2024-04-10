@@ -9,13 +9,8 @@
   - [Deploy a Huggingface model with NIM](#deploy-a-huggingface-model-with-nim)
   - [Train a LoRA and deploy with NIM](#train-a-lora-and-deploy-with-nim)
   - [Performance analysis](#performance-analysis)
-      - [Time to First Token Calculation:](#time-to-first-token-calculation)
-      - [Inter-token latency](#inter-token-latency)
-      - [Load testing](#load-testing)
   - [Deployment at scale](#deployment-at-scale)
-      - [Deployment of NIMs on kubernetes cluster](#deployment-of-nims-on-kubernetes-cluster)
-      - [Monitoring the RAG application](#monitoring-the-rag-application)
-      - [Autoscaling (Horizontal Pod Autoscaling)](#autoscaling-horizontal-pod-autoscaling)
+
 
 ## Introduction
 
